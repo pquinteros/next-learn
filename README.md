@@ -5,7 +5,7 @@ Ejemplo de prueba de next.js donde me conecto a la api de [TVmaze API](http://ww
 [Ejemplo funcionando](https://react-test.pquinteros.now.sh)
 
 <p align="center">
-  <img src=".static-readme/screenshot.png" width="94%" title="Learn App">
+  <img src=".static-readme/screenshot.png" width="100%" title="Learn App">
 </p>
 
 ## Instalación
