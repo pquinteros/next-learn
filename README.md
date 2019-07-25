@@ -1,6 +1,6 @@
 # App learn en Next.js
 
-Ejemplo de prueba de next.js donde me conecto a la api de [TVmaze API]('http://www.tvmaze.com/api').
+Ejemplo de prueba de next.js donde me conecto a la api de [TVmaze API](http://www.tvmaze.com/api).
 
 [Ejemplo funcionando](https://react-test.pquinteros.now.sh)
 
